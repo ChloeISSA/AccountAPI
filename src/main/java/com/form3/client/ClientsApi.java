@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.UUID;
 
 import io.swagger.api.ApiException;
-import io.swagger.api.AccountsApi;
+import io.swagger.model.AccountsApi;
 import io.swagger.model.AccountCreation;
 import io.swagger.model.AccountCreationResponse;
 import io.swagger.model.AccountDetailsListResponse;
